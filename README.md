@@ -88,10 +88,15 @@ a,b,c=solution
 print("Polynomial trend equation y=%.2f+%0.2fx+%.2fx^2"%(a,b,c))
 ```
 ### OUTPUT
+
 A - LINEAR TREND ESTIMATION
+
+
 ![image](https://github.com/Vivekreddy8360/TSA_EXP2/assets/94525701/962fa5f0-dbab-420c-bbab-25bdda3b3f81)
 
 B- POLYNOMIAL TREND ESTIMATION
+
+
 ![image](https://github.com/Vivekreddy8360/TSA_EXP2/assets/94525701/c84d4cfa-4f56-421b-816a-cc077be00901)
 
 
